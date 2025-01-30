@@ -1,5 +1,5 @@
 # IA
-tudo sobre IA Inteligencia Artificial
+Tudo sobre IA Inteligencia Artificial
 
 Manual: Como Rodar o DeepSeek GRÁTIS na Sua Máquina!
 Autor: claytonet
