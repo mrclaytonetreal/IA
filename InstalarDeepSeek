@@ -51,6 +51,7 @@ Baixe e execute o script de instalação do Ollama:
 
 sh
 curl -fsSL https://ollama.com/install.sh | sh
+
 Este comando detectará automaticamente a arquitetura do seu sistema e instalará a versão apropriada do Ollama.
 
 Verifique a instalação:
